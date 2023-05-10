@@ -1,0 +1,5 @@
+# ignore ALL .launch files
+*.launch
+
+# ignore ALL files in Debug directory
+Debug/
